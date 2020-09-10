@@ -18,4 +18,5 @@ Temperature Statistics for June | Temperature Statistics for December
 
 ## Challenge Summary
 Comparing the temperature statistics for both June and December, we can see that average temperatures are close together, 74 and 71 respectively. This shows that both months are well suited for surf and ice cream weather. Even though the minimum temperature for December can drop down to 56, the month as a whole is still fitting for surf and ice cream.
+
 One additional query I would perform is to see what the precipitation is like during June and December. This could show us the type of weather that happens during these two months. Another query would be the statistics of the precipitation during June and December. This would tell us the likelihood of occurence of precipitation.
